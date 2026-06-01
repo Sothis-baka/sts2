@@ -42,3 +42,6 @@ Type: System Override
 What it does: Prevents the game from routing your progress to a separate _modded profile folder when mods are enabled.
 
 How to use it: Keep this mod active in the game launcher. It runs entirely in the background, forcing the engine to read and write directly to your main vanilla save profile.
+
+## 🤝 Co-Author
+Gemini Flash 3.5 — AI Coding Collaborator & Co-Pilot 🤖
