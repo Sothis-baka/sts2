@@ -1,0 +1,19 @@
+<Project Sdk="Godot.NET.Sdk/4.5.1">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Decompiled source files for code reference  -->
+    <!-- <ProjectReference Include="..\..\decompiled_source\sts2.csproj" /> -->
+    
+    <!-- Point this path directly to where you copied the game's core binary-->
+    <Reference Include="sts2">
+      <HintPath>..\..\References\sts2.dll</HintPath>
+    </Reference>
+    
+    <Reference Include="0Harmony">
+      <HintPath>..\..\References\0Harmony.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

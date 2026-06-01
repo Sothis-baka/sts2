@@ -1,0 +1,47 @@
+# ==========================================
+# .NET / C# Compilation Artifacts
+# ==========================================
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+*.LocalHistory
+
+# ==========================================
+# Godot Engine Cache & Auto-Generated Files
+# ==========================================
+.godot/
+*.uid
+*.godot
+*.pck
+export_presets.cfg
+
+# Exception: Keep your hand-crafted json manifests tracked
+!*.json
+
+# ==========================================
+# IDE & System Workspace Configurations
+# ==========================================
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.DotSettings.user
+
+# ==========================================
+# Local Project Specific Dependencies
+# ==========================================
+decompiled_source/
+References/sts2.dll
+References/0Harmony.dll
+
+# Ignore your final local deployment target folder
+Release/

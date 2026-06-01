@@ -1,0 +1,11 @@
+{
+  "id": "UnifiedSave",
+  "name": "Unified Save Path",
+  "author": "Sothis",
+  "description": "Forces modded game instances to read and write directly to your vanilla progression profile.",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

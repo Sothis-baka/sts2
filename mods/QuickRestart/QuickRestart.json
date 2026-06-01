@@ -1,0 +1,11 @@
+{
+  "id": "QuickRestart",
+  "name": "Quick Restart",
+  "author": "Sothis",
+  "description": "Press R during a run to instantly restart the room from your last save point.",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
