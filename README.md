@@ -32,16 +32,16 @@ Launch the game. Enable the mods in the built-in mod manager pop-up!
 
 ## 📦 Included Mods & How to Use Them
 1. QuickRestart (mods/QuickRestart)
-What it does: Instantly restarts your current room from the last auto-save point (mimics quitting to the main menu and clicking continue).
+* What it does: Instantly restarts your current room from the last auto-save point (mimics quitting to the main menu and clicking continue).
 
-How to use it: Press the R key at any point during a single-player run.
+* How to use it: Press the R key at any point during a single-player run.
 
 2. UnifiedSave (mods/UnifiedSave)
-Type: System Override
+* Type: System Override
 
-What it does: Prevents the game from routing your progress to a separate _modded profile folder when mods are enabled.
+* What it does: Prevents the game from routing your progress to a separate _modded profile folder when mods are enabled.
 
-How to use it: Keep this mod active in the game launcher. It runs entirely in the background, forcing the engine to read and write directly to your main vanilla save profile.
+* How to use it: Keep this mod active in the game launcher. It runs entirely in the background, forcing the engine to read and write directly to your main vanilla save profile.
 
 ## 🤝 Co-Author
 Gemini Flash 3.5 — AI Coding Collaborator & Co-Pilot 🤖
