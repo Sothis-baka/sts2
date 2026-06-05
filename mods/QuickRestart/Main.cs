@@ -108,7 +108,7 @@ public static class QuickRestartHandler
         MainFile.Logger.Info("State data deserialized successfully.");
 
         // 3. Re-initialize underlying run structures using Mega Crit's async Task wrapper
-        TaskHelper.RunSafely(RunManager.Instance.SetUpSavedSinglePlayer(runState, serializableRun));
+        TaskHelper.RunSafely(RunManager.Instance.SetUpSavedSingleplayer(runState, serializableRun));
         MainFile.Logger.Info($"Continuing run with character: {serializableRun.Players[0].CharacterId}");
         
         // 4. Fire the transition SFX trigger
